@@ -6,8 +6,8 @@ To benchmark the trained autoencoder, we use it to obtain embeddings for images 
 
 ## Training
     
-    $ git clone http://github.com/simaoh/autoencoders_benchmark
-    $ cd autoencoders_benchmark
+    $ git clone http://github.com/simaoh/autoencoders
+    $ cd autoencoders
     $ python autoencoder.py --logdir output_file
 
 ## Tensorboard
@@ -34,4 +34,4 @@ For an introduction to autoencoders,  [this introductory blog post explaining ho
 are excellent sources.
 
 Our Denoising Autoencoder looks like this
-<img src=https://github.com/simaoh/autoencoders_benchmark/blob/master/autoencoder_graph.png?raw=true></img>
+<img src=https://github.com/simaoh/autoencoders/blob/master/autoencoder_graph.png?raw=true></img>
